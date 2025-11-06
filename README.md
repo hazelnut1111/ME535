@@ -1,4 +1,4 @@
-# 🧮 ME535 — Computational Techniques in Mechanical Engineering
+# 🧮 ME535 — Computational Techniques in ME
 
 This repository contains exercises and projects exploring **numerical methods** used in mechanical engineering, implemented in **Python**.
 
